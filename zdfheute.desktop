@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ZDF heute
+Exec=webapp-container --webappUrlPatterns=https://*.zdf.de/* https://www.zdf.de/nachrichten/
+Icon=assets/logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
