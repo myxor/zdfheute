@@ -3,7 +3,8 @@
     "policy_groups": [
         "networking",
         "webview",
-        "video"
+        "video",
+        "audio"
     ],
     "policy_version": 16.04
 }
