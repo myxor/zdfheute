@@ -3,7 +3,7 @@
     "description": "Webapp for heute.de",
     "architecture": "all",
     "title": "ZDFheute",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "maintainer": "Marco Heiming <mail@marcoheiming.de>",
     "framework" : "ubuntu-sdk-16.04",
     "hooks": {
